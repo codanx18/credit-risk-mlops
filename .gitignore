@@ -66,4 +66,15 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# DVC
 /data
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Modelos
+models/
+*.joblib
+*.pkl
